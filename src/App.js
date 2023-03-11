@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
         <p>Just some text so we can commit and push!</p>
+        <p>Repo was changed to public. Does it still deploy?</p>
       </header>
     </div>
   );
